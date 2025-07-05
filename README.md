@@ -16,7 +16,7 @@
 - 🚦 **Anti-windup**
 - 🔁 **Slew rate limiting**
 - 🌀 **Derivative filtering**
-- 🧮 **Feedforward support**
+- 🧮 **Feedforward term**
 - 🧪 **Precision control with dynamic time steps**
 - 🔄 **Integral and derivative-on-measurement option**
 
