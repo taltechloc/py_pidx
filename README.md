@@ -1,5 +1,9 @@
 # py_pidx
 
+> ⚠️ **Note:** This repository is a **mirror** of the original Python PID controller package developed and maintained by Mehrab Mahdian.  
+> For the latest updates, issue tracking, and contributions, please visit the original repo:  
+> https://github.com/mehrabmahdian/py_pidx
+
 [![PyPI version](https://img.shields.io/pypi/v/py_pidx.svg)](https://pypi.org/project/py_pidx/)
 [![License](https://img.shields.io/github/license/mehrabmahdian/py_pidx)](https://github.com/mehrabmahdian/py_pidx/blob/main/LICENSE)
 [![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen.svg)](https://github.com/mehrabmahdian/py_pidx)
